@@ -1,0 +1,12 @@
+{
+    "css.trace.server": "verbose",
+    "html.trace.server": "verbose",
+    "json.trace.server": "verbose",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.port": 0,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.useWebExt": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "editor.tabCompletion": "on"
+}
